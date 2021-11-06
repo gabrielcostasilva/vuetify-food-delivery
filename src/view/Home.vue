@@ -8,7 +8,7 @@
 
 <script>
 import SideBarLeft from '../components/SideBarLeft.vue'
-import SideBarRight from '../components/SideBarRight.vue'
+import SideBarRight from '../right-sidebar/SideBarRight.vue'
 import Overview from './Overview.vue'
 
 export default {
